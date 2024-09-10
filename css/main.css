@@ -1481,7 +1481,7 @@ input::-moz-focus-inner {
   letter-spacing: 0.4em;
   margin-top: 0;
   margin-bottom: 6rem;
-  color: #f9861a;
+  color: #ffffff;
 }
 
 .display-1 {
@@ -3212,7 +3212,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-footer .right-vert-line {
-  background-color: #f9861a;
+  background-color: #ffffff;
 }
 
 .s-footer__bottom {
