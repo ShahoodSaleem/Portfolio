@@ -111,7 +111,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #f9861a;
+  color: #000000;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -1837,8 +1837,9 @@ input::-moz-focus-inner {
 
 .header-content .btn:hover,
 .header-content .btn:focus {
-  background-color: #f9861a !important;
-  border-color: #f9861a !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #000000 !important;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2053,7 +2054,7 @@ input::-moz-focus-inner {
   display: block;
   height: 2px;
   width: 8rem;
-  background-color: #f9861a;
+  background-color: #ffffff;
   position: absolute;
   left: -10.8rem;
   top: 0.55em;
@@ -2090,7 +2091,7 @@ input::-moz-focus-inner {
 .hero-social a:hover,
 .hero-social a:focus,
 .hero-social a:active {
-  color: #f9861a;
+  color: grey;
 }
 
 .hero-social li {
