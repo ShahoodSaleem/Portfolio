@@ -999,8 +999,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #f9861a;
-  border-color: #f9861a;
+  background: #9900ff;
+  border-color: #9900ff;
   color: #ffffff;
 }
 
@@ -1481,7 +1481,7 @@ input::-moz-focus-inner {
   letter-spacing: 0.4em;
   margin-top: 0;
   margin-bottom: 6rem;
-  color: #ffffff;
+  color: #9900ff;
 }
 
 .display-1 {
@@ -2654,7 +2654,7 @@ html.no-csstransitions .hero-content {
   font-weight: 600;
   font-size: 0.5em;
   line-height: 1;
-  color: #f9861a;
+  color: #9900ff;
   position: absolute;
   top: 0.5em;
   left: 0;
