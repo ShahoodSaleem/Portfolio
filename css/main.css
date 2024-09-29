@@ -3023,7 +3023,7 @@ html.no-csstransitions .hero-content {
  * ------------------------------------------------------------------- */
 .s-testimonials {
   padding-top: 14.4rem;
-  padding-bottom: 16rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 
