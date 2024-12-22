@@ -2970,6 +2970,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width: 1200px) {
   .s-portfolio::before {
     display: none;
+    padding-left: 10px;
   }
 
   .folio-item__thumb a::after {
@@ -2988,6 +2989,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width: 800px) {
   .s-portfolio {
     padding-top: 20rem;
+    padding-left: 10px;
   }
 
   .folio-item__thumb a::after {
@@ -3006,6 +3008,7 @@ html.no-csstransitions .hero-content {
 @media screen and (max-width: 600px) {
   .folio-item__thumb a::after {
     font-size: 2rem;
+    padding-left: 10px;
   }
 
   .folio-item__title {
